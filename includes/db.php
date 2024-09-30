@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$dbname = 'lms';
-$username = 'root';
-$password = 'root';
+$host = 'sql.freedb.tech';
+$dbname = 'freedb_Library';
+$username = 'freedb_lmsnp';
+$password = 'f@AFRTyMw!7Unk#';
 
 try {
     $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8";
